@@ -1,1 +1,1 @@
-# OtlierDetection
+# OutlierDetection
